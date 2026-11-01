@@ -1,0 +1,2838 @@
+{
+ "frozen": "2026-11-01T18:22:22.220Z",
+ "slot": "live",
+ "baseline": {
+  "runDate": "2026-11-01",
+  "version": "MP-26 v0.5",
+  "races": [
+   {
+    "key": "senate:AK",
+    "state": "AK",
+    "signedMargin": 1.15,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "senate:AL",
+    "state": "AL",
+    "signedMargin": -13.06,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "senate:AR",
+    "state": "AR",
+    "signedMargin": -14.55,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "senate:CO",
+    "state": "CO",
+    "signedMargin": 25.01,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "senate:DE",
+    "state": "DE",
+    "signedMargin": 27.72,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "senate:FL",
+    "state": "FL",
+    "signedMargin": -5.83,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "senate:GA",
+    "state": "GA",
+    "signedMargin": 11.42,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "senate:IA",
+    "state": "IA",
+    "signedMargin": 0.94,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "senate:ID",
+    "state": "ID",
+    "signedMargin": -15.53,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "senate:IL",
+    "state": "IL",
+    "signedMargin": 15.82,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "senate:KS",
+    "state": "KS",
+    "signedMargin": -0.17,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "senate:KY",
+    "state": "KY",
+    "signedMargin": -12.67,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "senate:LA",
+    "state": "LA",
+    "signedMargin": -6.12,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "senate:MA",
+    "state": "MA",
+    "signedMargin": 30.88,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "senate:ME",
+    "state": "ME",
+    "signedMargin": 4.54,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "senate:MI",
+    "state": "MI",
+    "signedMargin": 5.28,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "senate:MN",
+    "state": "MN",
+    "signedMargin": 8.86,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "senate:MS",
+    "state": "MS",
+    "signedMargin": -9.64,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "senate:MT",
+    "state": "MT",
+    "signedMargin": -6.17,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "senate:NC",
+    "state": "NC",
+    "signedMargin": 10.21,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "senate:NE",
+    "state": "NE",
+    "signedMargin": -4.31,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "senate:NH",
+    "state": "NH",
+    "signedMargin": 9.22,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "senate:NJ",
+    "state": "NJ",
+    "signedMargin": 21.03,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "senate:NM",
+    "state": "NM",
+    "signedMargin": 19.3,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "senate:OH",
+    "state": "OH",
+    "signedMargin": 1.54,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "senate:OK",
+    "state": "OK",
+    "signedMargin": -15.66,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "senate:OR",
+    "state": "OR",
+    "signedMargin": 27.65,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "senate:RI",
+    "state": "RI",
+    "signedMargin": 27.2,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "senate:SC",
+    "state": "SC",
+    "signedMargin": -3.58,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "senate:SD",
+    "state": "SD",
+    "signedMargin": -14.09,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "senate:TN",
+    "state": "TN",
+    "signedMargin": -17.91,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "senate:TX",
+    "state": "TX",
+    "signedMargin": 2.29,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "senate:VA",
+    "state": "VA",
+    "signedMargin": 20.88,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "senate:WV",
+    "state": "WV",
+    "signedMargin": -27.26,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "senate:WY",
+    "state": "WY",
+    "signedMargin": -24.61,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:AK-00",
+    "state": "AK",
+    "signedMargin": -7.73,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:AL-01",
+    "state": "AL",
+    "signedMargin": -21.65,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:AL-02",
+    "state": "AL",
+    "signedMargin": 1.2,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:AL-03",
+    "state": "AL",
+    "signedMargin": -36.04,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:AL-04",
+    "state": "AL",
+    "signedMargin": -54.17,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:AL-05",
+    "state": "AL",
+    "signedMargin": -19.99,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:AL-06",
+    "state": "AL",
+    "signedMargin": -25.01,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:AL-07",
+    "state": "AL",
+    "signedMargin": 32.52,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:AR-01",
+    "state": "AR",
+    "signedMargin": -34.33,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:AR-02",
+    "state": "AR",
+    "signedMargin": -5.6,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:AR-03",
+    "state": "AR",
+    "signedMargin": -17.74,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:AR-04",
+    "state": "AR",
+    "signedMargin": -30.74,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:AZ-01",
+    "state": "AZ",
+    "signedMargin": 6.77,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:AZ-02",
+    "state": "AZ",
+    "signedMargin": -0.28,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:AZ-03",
+    "state": "AZ",
+    "signedMargin": 52.94,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:AZ-04",
+    "state": "AZ",
+    "signedMargin": 20.05,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:AZ-05",
+    "state": "AZ",
+    "signedMargin": -6.9,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:AZ-06",
+    "state": "AZ",
+    "signedMargin": 7.72,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:AZ-07",
+    "state": "AZ",
+    "signedMargin": 36.69,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:AZ-08",
+    "state": "AZ",
+    "signedMargin": -8.11,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:AZ-09",
+    "state": "AZ",
+    "signedMargin": -18.72,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:CA-01",
+    "state": "CA",
+    "signedMargin": 16.97,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:CA-02",
+    "state": "CA",
+    "signedMargin": 39.36,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:CA-03",
+    "state": "CA",
+    "signedMargin": 25.75,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:CA-04",
+    "state": "CA",
+    "signedMargin": 50,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:CA-05",
+    "state": "CA",
+    "signedMargin": -12.45,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:CA-06",
+    "state": "CA",
+    "signedMargin": 50,
+    "incumbentParty": null
+   },
+   {
+    "key": "house:CA-07",
+    "state": "CA",
+    "signedMargin": 50,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:CA-08",
+    "state": "CA",
+    "signedMargin": 48.23,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:CA-09",
+    "state": "CA",
+    "signedMargin": 26.91,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:CA-10",
+    "state": "CA",
+    "signedMargin": 47.82,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:CA-11",
+    "state": "CA",
+    "signedMargin": 76.02,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:CA-12",
+    "state": "CA",
+    "signedMargin": 87.02,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:CA-13",
+    "state": "CA",
+    "signedMargin": 16.49,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:CA-14",
+    "state": "CA",
+    "signedMargin": 50,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:CA-15",
+    "state": "CA",
+    "signedMargin": 61.45,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:CA-16",
+    "state": "CA",
+    "signedMargin": 61.68,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:CA-17",
+    "state": "CA",
+    "signedMargin": 53.33,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:CA-18",
+    "state": "CA",
+    "signedMargin": 42.95,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:CA-19",
+    "state": "CA",
+    "signedMargin": 48.69,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:CA-20",
+    "state": "CA",
+    "signedMargin": -23.17,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:CA-21",
+    "state": "CA",
+    "signedMargin": 21.74,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:CA-22",
+    "state": "CA",
+    "signedMargin": 6.71,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:CA-23",
+    "state": "CA",
+    "signedMargin": -11.25,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:CA-24",
+    "state": "CA",
+    "signedMargin": 39.63,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:CA-25",
+    "state": "CA",
+    "signedMargin": 21.57,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:CA-26",
+    "state": "CA",
+    "signedMargin": 25.89,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:CA-27",
+    "state": "CA",
+    "signedMargin": 25.29,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:CA-28",
+    "state": "CA",
+    "signedMargin": 40.01,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:CA-29",
+    "state": "CA",
+    "signedMargin": 50,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:CA-30",
+    "state": "CA",
+    "signedMargin": 53.97,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:CA-31",
+    "state": "CA",
+    "signedMargin": 27.65,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:CA-32",
+    "state": "CA",
+    "signedMargin": 39.64,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:CA-33",
+    "state": "CA",
+    "signedMargin": 25.34,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:CA-34",
+    "state": "CA",
+    "signedMargin": 64.56,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:CA-35",
+    "state": "CA",
+    "signedMargin": 23.48,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:CA-36",
+    "state": "CA",
+    "signedMargin": 53.05,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:CA-37",
+    "state": "CA",
+    "signedMargin": 73.02,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:CA-38",
+    "state": "CA",
+    "signedMargin": 23.16,
+    "incumbentParty": null
+   },
+   {
+    "key": "house:CA-39",
+    "state": "CA",
+    "signedMargin": 25.06,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:CA-40",
+    "state": "CA",
+    "signedMargin": -50,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:CA-41",
+    "state": "CA",
+    "signedMargin": 29.51,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:CA-42",
+    "state": "CA",
+    "signedMargin": 28.51,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:CA-43",
+    "state": "CA",
+    "signedMargin": 62.32,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:CA-44",
+    "state": "CA",
+    "signedMargin": 49.29,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:CA-45",
+    "state": "CA",
+    "signedMargin": 19.84,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:CA-46",
+    "state": "CA",
+    "signedMargin": 31.37,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:CA-47",
+    "state": "CA",
+    "signedMargin": 25.69,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:CA-48",
+    "state": "CA",
+    "signedMargin": 11.96,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:CA-49",
+    "state": "CA",
+    "signedMargin": 27.53,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:CA-50",
+    "state": "CA",
+    "signedMargin": 33.33,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:CA-51",
+    "state": "CA",
+    "signedMargin": 33.31,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:CA-52",
+    "state": "CA",
+    "signedMargin": 32.6,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:CO-01",
+    "state": "CO",
+    "signedMargin": 64.14,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:CO-02",
+    "state": "CO",
+    "signedMargin": 50.13,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:CO-03",
+    "state": "CO",
+    "signedMargin": -2.17,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:CO-04",
+    "state": "CO",
+    "signedMargin": -3.53,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:CO-05",
+    "state": "CO",
+    "signedMargin": -1.59,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:CO-06",
+    "state": "CO",
+    "signedMargin": 32.29,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:CO-07",
+    "state": "CO",
+    "signedMargin": 26.96,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:CO-08",
+    "state": "CO",
+    "signedMargin": 5.22,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:CT-01",
+    "state": "CT",
+    "signedMargin": 32.78,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:CT-02",
+    "state": "CT",
+    "signedMargin": 24.21,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:CT-03",
+    "state": "CT",
+    "signedMargin": 28.77,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:CT-04",
+    "state": "CT",
+    "signedMargin": 35.32,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:CT-05",
+    "state": "CT",
+    "signedMargin": 19.47,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:DE-00",
+    "state": "DE",
+    "signedMargin": 29.79,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:FL-01",
+    "state": "FL",
+    "signedMargin": -27.39,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:FL-02",
+    "state": "FL",
+    "signedMargin": -5.06,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:FL-03",
+    "state": "FL",
+    "signedMargin": -12.52,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:FL-04",
+    "state": "FL",
+    "signedMargin": -3.99,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:FL-05",
+    "state": "FL",
+    "signedMargin": -12.86,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:FL-06",
+    "state": "FL",
+    "signedMargin": -20.74,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:FL-07",
+    "state": "FL",
+    "signedMargin": 0.02,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:FL-08",
+    "state": "FL",
+    "signedMargin": -8.03,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:FL-09",
+    "state": "FL",
+    "signedMargin": -0.24,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:FL-10",
+    "state": "FL",
+    "signedMargin": 50,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:FL-11",
+    "state": "FL",
+    "signedMargin": -2.93,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:FL-12",
+    "state": "FL",
+    "signedMargin": -7.26,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:FL-13",
+    "state": "FL",
+    "signedMargin": -4.99,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:FL-14",
+    "state": "FL",
+    "signedMargin": 6.17,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:FL-15",
+    "state": "FL",
+    "signedMargin": -11.41,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:FL-16",
+    "state": "FL",
+    "signedMargin": -1.49,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:FL-17",
+    "state": "FL",
+    "signedMargin": -13.37,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:FL-18",
+    "state": "FL",
+    "signedMargin": -8.68,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:FL-19",
+    "state": "FL",
+    "signedMargin": -16.23,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:FL-20",
+    "state": "FL",
+    "signedMargin": 50.37,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:FL-21",
+    "state": "FL",
+    "signedMargin": -8.04,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:FL-22",
+    "state": "FL",
+    "signedMargin": 2,
+    "incumbentParty": null
+   },
+   {
+    "key": "house:FL-23",
+    "state": "FL",
+    "signedMargin": 28.79,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:FL-24",
+    "state": "FL",
+    "signedMargin": 47.19,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:FL-25",
+    "state": "FL",
+    "signedMargin": 5.07,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:FL-26",
+    "state": "FL",
+    "signedMargin": -9.99,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:FL-27",
+    "state": "FL",
+    "signedMargin": -6.48,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:FL-28",
+    "state": "FL",
+    "signedMargin": -16.46,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:GA-01",
+    "state": "GA",
+    "signedMargin": -2.97,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:GA-02",
+    "state": "GA",
+    "signedMargin": 23.55,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:GA-03",
+    "state": "GA",
+    "signedMargin": -20.34,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:GA-04",
+    "state": "GA",
+    "signedMargin": 60.94,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:GA-05",
+    "state": "GA",
+    "signedMargin": 79.09,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:GA-06",
+    "state": "GA",
+    "signedMargin": 59.02,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:GA-07",
+    "state": "GA",
+    "signedMargin": -15.38,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:GA-08",
+    "state": "GA",
+    "signedMargin": -22.82,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:GA-09",
+    "state": "GA",
+    "signedMargin": -24.08,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:GA-10",
+    "state": "GA",
+    "signedMargin": -7.56,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:GA-11",
+    "state": "GA",
+    "signedMargin": -9.37,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:GA-12",
+    "state": "GA",
+    "signedMargin": -7.34,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:GA-13",
+    "state": "GA",
+    "signedMargin": 50.55,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:GA-14",
+    "state": "GA",
+    "signedMargin": -19.44,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:HI-01",
+    "state": "HI",
+    "signedMargin": 45.27,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:HI-02",
+    "state": "HI",
+    "signedMargin": 40.59,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:IA-01",
+    "state": "IA",
+    "signedMargin": 7.67,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:IA-02",
+    "state": "IA",
+    "signedMargin": 2.42,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:IA-03",
+    "state": "IA",
+    "signedMargin": 5.83,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:IA-04",
+    "state": "IA",
+    "signedMargin": -17.59,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:ID-01",
+    "state": "ID",
+    "signedMargin": -30.75,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:ID-02",
+    "state": "ID",
+    "signedMargin": -16.81,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:IL-01",
+    "state": "IL",
+    "signedMargin": 42.8,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:IL-02",
+    "state": "IL",
+    "signedMargin": 42.19,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:IL-03",
+    "state": "IL",
+    "signedMargin": 44.33,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:IL-04",
+    "state": "IL",
+    "signedMargin": 37.78,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:IL-05",
+    "state": "IL",
+    "signedMargin": 48.17,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:IL-06",
+    "state": "IL",
+    "signedMargin": 20.39,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:IL-07",
+    "state": "IL",
+    "signedMargin": 71.94,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:IL-08",
+    "state": "IL",
+    "signedMargin": 17.92,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:IL-09",
+    "state": "IL",
+    "signedMargin": 45.3,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:IL-10",
+    "state": "IL",
+    "signedMargin": 32.56,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:IL-11",
+    "state": "IL",
+    "signedMargin": 23.97,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:IL-12",
+    "state": "IL",
+    "signedMargin": -33.37,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:IL-13",
+    "state": "IL",
+    "signedMargin": 26.65,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:IL-14",
+    "state": "IL",
+    "signedMargin": 21.37,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:IL-15",
+    "state": "IL",
+    "signedMargin": -29.98,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:IL-16",
+    "state": "IL",
+    "signedMargin": -14.11,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:IL-17",
+    "state": "IL",
+    "signedMargin": 20.39,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:IN-01",
+    "state": "IN",
+    "signedMargin": 18.81,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:IN-02",
+    "state": "IN",
+    "signedMargin": -15.83,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:IN-03",
+    "state": "IN",
+    "signedMargin": -22.04,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:IN-04",
+    "state": "IN",
+    "signedMargin": -20.23,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:IN-05",
+    "state": "IN",
+    "signedMargin": -5.72,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:IN-06",
+    "state": "IN",
+    "signedMargin": -23.29,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:IN-07",
+    "state": "IN",
+    "signedMargin": 50.4,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:IN-08",
+    "state": "IN",
+    "signedMargin": -26.38,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:IN-09",
+    "state": "IN",
+    "signedMargin": -19.07,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:KS-01",
+    "state": "KS",
+    "signedMargin": -23.42,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:KS-02",
+    "state": "KS",
+    "signedMargin": -8.89,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:KS-03",
+    "state": "KS",
+    "signedMargin": 21.38,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:KS-04",
+    "state": "KS",
+    "signedMargin": -15.95,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:KY-01",
+    "state": "KY",
+    "signedMargin": -35.18,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:KY-02",
+    "state": "KY",
+    "signedMargin": -31.38,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:KY-03",
+    "state": "KY",
+    "signedMargin": 33.97,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:KY-04",
+    "state": "KY",
+    "signedMargin": -21.48,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:KY-05",
+    "state": "KY",
+    "signedMargin": -52.11,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:KY-06",
+    "state": "KY",
+    "signedMargin": -2.45,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:LA-01",
+    "state": "LA",
+    "signedMargin": -28.63,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:LA-02",
+    "state": "LA",
+    "signedMargin": 60.28,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:LA-03",
+    "state": "LA",
+    "signedMargin": -26.38,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:LA-04",
+    "state": "LA",
+    "signedMargin": -24.71,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:LA-05",
+    "state": "LA",
+    "signedMargin": -19.93,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:LA-06",
+    "state": "LA",
+    "signedMargin": -16.43,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:MA-01",
+    "state": "MA",
+    "signedMargin": 50,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:MA-02",
+    "state": "MA",
+    "signedMargin": 50,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:MA-03",
+    "state": "MA",
+    "signedMargin": 33.84,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:MA-04",
+    "state": "MA",
+    "signedMargin": 34.51,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:MA-05",
+    "state": "MA",
+    "signedMargin": 58.45,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:MA-06",
+    "state": "MA",
+    "signedMargin": 30.79,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:MA-07",
+    "state": "MA",
+    "signedMargin": 75.61,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:MA-08",
+    "state": "MA",
+    "signedMargin": 45.36,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:MA-09",
+    "state": "MA",
+    "signedMargin": 24.53,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:MD-01",
+    "state": "MD",
+    "signedMargin": -9.15,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:MD-02",
+    "state": "MD",
+    "signedMargin": 33.43,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:MD-03",
+    "state": "MD",
+    "signedMargin": 38.49,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:MD-04",
+    "state": "MD",
+    "signedMargin": 83.61,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:MD-05",
+    "state": "MD",
+    "signedMargin": 42.62,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:MD-06",
+    "state": "MD",
+    "signedMargin": 21.55,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:MD-07",
+    "state": "MD",
+    "signedMargin": 70.4,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:MD-08",
+    "state": "MD",
+    "signedMargin": 65.57,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:ME-01",
+    "state": "ME",
+    "signedMargin": 32.32,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:ME-02",
+    "state": "ME",
+    "signedMargin": 2.68,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:MI-01",
+    "state": "MI",
+    "signedMargin": -10.06,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:MI-02",
+    "state": "MI",
+    "signedMargin": -20.14,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:MI-03",
+    "state": "MI",
+    "signedMargin": 22.04,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:MI-04",
+    "state": "MI",
+    "signedMargin": -0.62,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:MI-05",
+    "state": "MI",
+    "signedMargin": -18.85,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:MI-06",
+    "state": "MI",
+    "signedMargin": 37.29,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:MI-07",
+    "state": "MI",
+    "signedMargin": 6.12,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:MI-08",
+    "state": "MI",
+    "signedMargin": 14.3,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:MI-09",
+    "state": "MI",
+    "signedMargin": -23.17,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:MI-10",
+    "state": "MI",
+    "signedMargin": 1.7,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:MI-11",
+    "state": "MI",
+    "signedMargin": 26.53,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:MI-12",
+    "state": "MI",
+    "signedMargin": 52.67,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:MI-13",
+    "state": "MI",
+    "signedMargin": 49.88,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:MN-01",
+    "state": "MN",
+    "signedMargin": -3.44,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:MN-02",
+    "state": "MN",
+    "signedMargin": 16.97,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:MN-03",
+    "state": "MN",
+    "signedMargin": 35.96,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:MN-04",
+    "state": "MN",
+    "signedMargin": 45.85,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:MN-05",
+    "state": "MN",
+    "signedMargin": 63.43,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:MN-06",
+    "state": "MN",
+    "signedMargin": -11.81,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:MN-07",
+    "state": "MN",
+    "signedMargin": -26.75,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:MN-08",
+    "state": "MN",
+    "signedMargin": -4.75,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:MO-01",
+    "state": "MO",
+    "signedMargin": 69.26,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:MO-02",
+    "state": "MO",
+    "signedMargin": 0.18,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:MO-03",
+    "state": "MO",
+    "signedMargin": -17.81,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:MO-04",
+    "state": "MO",
+    "signedMargin": -30.76,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:MO-05",
+    "state": "MO",
+    "signedMargin": 35.25,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:MO-06",
+    "state": "MO",
+    "signedMargin": -24.37,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:MO-07",
+    "state": "MO",
+    "signedMargin": -31.22,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:MO-08",
+    "state": "MO",
+    "signedMargin": -40.28,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:MS-01",
+    "state": "MS",
+    "signedMargin": -26.05,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:MS-02",
+    "state": "MS",
+    "signedMargin": 34.44,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:MS-03",
+    "state": "MS",
+    "signedMargin": -19.96,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:MS-04",
+    "state": "MS",
+    "signedMargin": -32.67,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:MT-01",
+    "state": "MT",
+    "signedMargin": 1.54,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:MT-02",
+    "state": "MT",
+    "signedMargin": -20.97,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:NC-01",
+    "state": "NC",
+    "signedMargin": 3.87,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:NC-02",
+    "state": "NC",
+    "signedMargin": 47.58,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:NC-03",
+    "state": "NC",
+    "signedMargin": -5.62,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:NC-04",
+    "state": "NC",
+    "signedMargin": 58.19,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:NC-05",
+    "state": "NC",
+    "signedMargin": -9.46,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:NC-06",
+    "state": "NC",
+    "signedMargin": -8.93,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:NC-07",
+    "state": "NC",
+    "signedMargin": -5.8,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:NC-08",
+    "state": "NC",
+    "signedMargin": -10.94,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:NC-09",
+    "state": "NC",
+    "signedMargin": -7.68,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:NC-10",
+    "state": "NC",
+    "signedMargin": -9.41,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:NC-11",
+    "state": "NC",
+    "signedMargin": 4.14,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:NC-12",
+    "state": "NC",
+    "signedMargin": 59.1,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:NC-13",
+    "state": "NC",
+    "signedMargin": -8.27,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:NC-14",
+    "state": "NC",
+    "signedMargin": -6.96,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:ND-00",
+    "state": "ND",
+    "signedMargin": -27.2,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:NE-01",
+    "state": "NE",
+    "signedMargin": -6.37,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:NE-02",
+    "state": "NE",
+    "signedMargin": 14.92,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:NE-03",
+    "state": "NE",
+    "signedMargin": -44.04,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:NH-01",
+    "state": "NH",
+    "signedMargin": 9.98,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:NH-02",
+    "state": "NH",
+    "signedMargin": 18.48,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:NJ-01",
+    "state": "NJ",
+    "signedMargin": 30.25,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:NJ-02",
+    "state": "NJ",
+    "signedMargin": -4.66,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:NJ-03",
+    "state": "NJ",
+    "signedMargin": 23.89,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:NJ-04",
+    "state": "NJ",
+    "signedMargin": -21.51,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:NJ-05",
+    "state": "NJ",
+    "signedMargin": 20.85,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:NJ-06",
+    "state": "NJ",
+    "signedMargin": 25.13,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:NJ-07",
+    "state": "NJ",
+    "signedMargin": 5.8,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:NJ-08",
+    "state": "NJ",
+    "signedMargin": 50,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:NJ-09",
+    "state": "NJ",
+    "signedMargin": 15.06,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:NJ-10",
+    "state": "NJ",
+    "signedMargin": 63.31,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:NJ-11",
+    "state": "NJ",
+    "signedMargin": 25.2,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:NJ-12",
+    "state": "NJ",
+    "signedMargin": 33.94,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:NM-01",
+    "state": "NM",
+    "signedMargin": 24.13,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:NM-02",
+    "state": "NM",
+    "signedMargin": 13.29,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:NM-03",
+    "state": "NM",
+    "signedMargin": 20.42,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:NV-01",
+    "state": "NV",
+    "signedMargin": 18.82,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:NV-02",
+    "state": "NV",
+    "signedMargin": -2.11,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:NV-03",
+    "state": "NV",
+    "signedMargin": 15.05,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:NV-04",
+    "state": "NV",
+    "signedMargin": 19.19,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:NY-01",
+    "state": "NY",
+    "signedMargin": 0.26,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:NY-02",
+    "state": "NY",
+    "signedMargin": -5.86,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:NY-03",
+    "state": "NY",
+    "signedMargin": 12.17,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:NY-04",
+    "state": "NY",
+    "signedMargin": 17.32,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:NY-05",
+    "state": "NY",
+    "signedMargin": 53.11,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:NY-06",
+    "state": "NY",
+    "signedMargin": 28.57,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:NY-07",
+    "state": "NY",
+    "signedMargin": 54.62,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:NY-08",
+    "state": "NY",
+    "signedMargin": 55.74,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:NY-09",
+    "state": "NY",
+    "signedMargin": 53.4,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:NY-10",
+    "state": "NY",
+    "signedMargin": 68.04,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:NY-11",
+    "state": "NY",
+    "signedMargin": -14.39,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:NY-12",
+    "state": "NY",
+    "signedMargin": 70.79,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:NY-13",
+    "state": "NY",
+    "signedMargin": 66.57,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:NY-14",
+    "state": "NY",
+    "signedMargin": 45.33,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:NY-15",
+    "state": "NY",
+    "signedMargin": 58.95,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:NY-16",
+    "state": "NY",
+    "signedMargin": 46.54,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:NY-17",
+    "state": "NY",
+    "signedMargin": 3.97,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:NY-18",
+    "state": "NY",
+    "signedMargin": 22.91,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:NY-19",
+    "state": "NY",
+    "signedMargin": 17.78,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:NY-20",
+    "state": "NY",
+    "signedMargin": 29.72,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:NY-21",
+    "state": "NY",
+    "signedMargin": -5.67,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:NY-22",
+    "state": "NY",
+    "signedMargin": 23.16,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:NY-23",
+    "state": "NY",
+    "signedMargin": -15.44,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:NY-24",
+    "state": "NY",
+    "signedMargin": -15.62,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:NY-25",
+    "state": "NY",
+    "signedMargin": 31.75,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:NY-26",
+    "state": "NY",
+    "signedMargin": 33.99,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:OH-01",
+    "state": "OH",
+    "signedMargin": 10.12,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:OH-02",
+    "state": "OH",
+    "signedMargin": -31.85,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:OH-03",
+    "state": "OH",
+    "signedMargin": 53.26,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:OH-04",
+    "state": "OH",
+    "signedMargin": -32.34,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:OH-05",
+    "state": "OH",
+    "signedMargin": -14.95,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:OH-06",
+    "state": "OH",
+    "signedMargin": -24.92,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:OH-07",
+    "state": "OH",
+    "signedMargin": -2.28,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:OH-08",
+    "state": "OH",
+    "signedMargin": -7.47,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:OH-09",
+    "state": "OH",
+    "signedMargin": 6.38,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:OH-10",
+    "state": "OH",
+    "signedMargin": -0.24,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:OH-11",
+    "state": "OH",
+    "signedMargin": 66.77,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:OH-12",
+    "state": "OH",
+    "signedMargin": -20.78,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:OH-13",
+    "state": "OH",
+    "signedMargin": 19.17,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:OH-14",
+    "state": "OH",
+    "signedMargin": -11.81,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:OH-15",
+    "state": "OH",
+    "signedMargin": -2.3,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:OK-01",
+    "state": "OK",
+    "signedMargin": -8.55,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:OK-02",
+    "state": "OK",
+    "signedMargin": -39.93,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:OK-03",
+    "state": "OK",
+    "signedMargin": -35.45,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:OK-04",
+    "state": "OK",
+    "signedMargin": -23.28,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:OK-05",
+    "state": "OK",
+    "signedMargin": -9.05,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:OR-01",
+    "state": "OR",
+    "signedMargin": 50.15,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:OR-02",
+    "state": "OR",
+    "signedMargin": -17.92,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:OR-03",
+    "state": "OR",
+    "signedMargin": 59.61,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:OR-04",
+    "state": "OR",
+    "signedMargin": 22.2,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:OR-05",
+    "state": "OR",
+    "signedMargin": 24.18,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:OR-06",
+    "state": "OR",
+    "signedMargin": 21.38,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:PA-01",
+    "state": "PA",
+    "signedMargin": 0.52,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:PA-02",
+    "state": "PA",
+    "signedMargin": 50.71,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:PA-03",
+    "state": "PA",
+    "signedMargin": 82.98,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:PA-04",
+    "state": "PA",
+    "signedMargin": 29.52,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:PA-05",
+    "state": "PA",
+    "signedMargin": 41.03,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:PA-06",
+    "state": "PA",
+    "signedMargin": 24.66,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:PA-07",
+    "state": "PA",
+    "signedMargin": 4.12,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:PA-08",
+    "state": "PA",
+    "signedMargin": 0.79,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:PA-09",
+    "state": "PA",
+    "signedMargin": -27.12,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:PA-10",
+    "state": "PA",
+    "signedMargin": 4.31,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:PA-11",
+    "state": "PA",
+    "signedMargin": -12.77,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:PA-12",
+    "state": "PA",
+    "signedMargin": 27.38,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:PA-13",
+    "state": "PA",
+    "signedMargin": -33.95,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:PA-14",
+    "state": "PA",
+    "signedMargin": -20.98,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:PA-15",
+    "state": "PA",
+    "signedMargin": -28.31,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:PA-16",
+    "state": "PA",
+    "signedMargin": -14.16,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:PA-17",
+    "state": "PA",
+    "signedMargin": 20.03,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:RI-01",
+    "state": "RI",
+    "signedMargin": 34.97,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:RI-02",
+    "state": "RI",
+    "signedMargin": 22.56,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:SC-01",
+    "state": "SC",
+    "signedMargin": -0.98,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:SC-02",
+    "state": "SC",
+    "signedMargin": -6.53,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:SC-03",
+    "state": "SC",
+    "signedMargin": -32.89,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:SC-04",
+    "state": "SC",
+    "signedMargin": -11.55,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:SC-05",
+    "state": "SC",
+    "signedMargin": -9.55,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:SC-06",
+    "state": "SC",
+    "signedMargin": 34.51,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:SC-07",
+    "state": "SC",
+    "signedMargin": -16.81,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:SD-00",
+    "state": "SD",
+    "signedMargin": -18.39,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:TN-01",
+    "state": "TN",
+    "signedMargin": -46.42,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:TN-02",
+    "state": "TN",
+    "signedMargin": -24.4,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:TN-03",
+    "state": "TN",
+    "signedMargin": -26.12,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:TN-04",
+    "state": "TN",
+    "signedMargin": -15.23,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:TN-05",
+    "state": "TN",
+    "signedMargin": -9.82,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:TN-06",
+    "state": "TN",
+    "signedMargin": -13,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:TN-07",
+    "state": "TN",
+    "signedMargin": -13.81,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:TN-08",
+    "state": "TN",
+    "signedMargin": -11.72,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:TN-09",
+    "state": "TN",
+    "signedMargin": -8.02,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:TX-01",
+    "state": "TX",
+    "signedMargin": -38.63,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:TX-02",
+    "state": "TX",
+    "signedMargin": -9.58,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:TX-03",
+    "state": "TX",
+    "signedMargin": -14.96,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:TX-04",
+    "state": "TX",
+    "signedMargin": -16.04,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:TX-05",
+    "state": "TX",
+    "signedMargin": -13.01,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:TX-06",
+    "state": "TX",
+    "signedMargin": -14.31,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:TX-07",
+    "state": "TX",
+    "signedMargin": 38.14,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:TX-08",
+    "state": "TX",
+    "signedMargin": -14.02,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:TX-09",
+    "state": "TX",
+    "signedMargin": -5.3,
+    "incumbentParty": null
+   },
+   {
+    "key": "house:TX-10",
+    "state": "TX",
+    "signedMargin": -9.16,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:TX-11",
+    "state": "TX",
+    "signedMargin": -24.81,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:TX-12",
+    "state": "TX",
+    "signedMargin": -15.12,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:TX-13",
+    "state": "TX",
+    "signedMargin": -35.67,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:TX-14",
+    "state": "TX",
+    "signedMargin": -15.51,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:TX-15",
+    "state": "TX",
+    "signedMargin": -5.51,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:TX-16",
+    "state": "TX",
+    "signedMargin": 31.33,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:TX-17",
+    "state": "TX",
+    "signedMargin": -13.11,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:TX-18",
+    "state": "TX",
+    "signedMargin": 67.01,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:TX-19",
+    "state": "TX",
+    "signedMargin": -36.09,
+    "incumbentParty": null
+   },
+   {
+    "key": "house:TX-20",
+    "state": "TX",
+    "signedMargin": 42.5,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:TX-21",
+    "state": "TX",
+    "signedMargin": -8.63,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:TX-22",
+    "state": "TX",
+    "signedMargin": -9.22,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:TX-23",
+    "state": "TX",
+    "signedMargin": -2.13,
+    "incumbentParty": null
+   },
+   {
+    "key": "house:TX-24",
+    "state": "TX",
+    "signedMargin": -8.02,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:TX-25",
+    "state": "TX",
+    "signedMargin": -15.29,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:TX-26",
+    "state": "TX",
+    "signedMargin": -15.11,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:TX-27",
+    "state": "TX",
+    "signedMargin": -12.65,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:TX-28",
+    "state": "TX",
+    "signedMargin": 7.89,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:TX-29",
+    "state": "TX",
+    "signedMargin": 44.3,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:TX-30",
+    "state": "TX",
+    "signedMargin": 55.18,
+    "incumbentParty": null
+   },
+   {
+    "key": "house:TX-31",
+    "state": "TX",
+    "signedMargin": -13.28,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:TX-32",
+    "state": "TX",
+    "signedMargin": -5,
+    "incumbentParty": null
+   },
+   {
+    "key": "house:TX-33",
+    "state": "TX",
+    "signedMargin": 41.97,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:TX-34",
+    "state": "TX",
+    "signedMargin": 6.77,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:TX-35",
+    "state": "TX",
+    "signedMargin": 0.99,
+    "incumbentParty": null
+   },
+   {
+    "key": "house:TX-36",
+    "state": "TX",
+    "signedMargin": -16.18,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:TX-37",
+    "state": "TX",
+    "signedMargin": 68.82,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:TX-38",
+    "state": "TX",
+    "signedMargin": -7.9,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:UT-01",
+    "state": "UT",
+    "signedMargin": 34.17,
+    "incumbentParty": null
+   },
+   {
+    "key": "house:UT-02",
+    "state": "UT",
+    "signedMargin": -18.81,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:UT-03",
+    "state": "UT",
+    "signedMargin": -30.86,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:UT-04",
+    "state": "UT",
+    "signedMargin": -22.49,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:VA-01",
+    "state": "VA",
+    "signedMargin": -0.44,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:VA-02",
+    "state": "VA",
+    "signedMargin": 6.19,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:VA-03",
+    "state": "VA",
+    "signedMargin": 48.73,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:VA-04",
+    "state": "VA",
+    "signedMargin": 44.93,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:VA-05",
+    "state": "VA",
+    "signedMargin": -4.49,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:VA-06",
+    "state": "VA",
+    "signedMargin": -15.32,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:VA-07",
+    "state": "VA",
+    "signedMargin": 18.8,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:VA-08",
+    "state": "VA",
+    "signedMargin": 57.64,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:VA-09",
+    "state": "VA",
+    "signedMargin": -31.57,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:VA-10",
+    "state": "VA",
+    "signedMargin": 23.97,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:VA-11",
+    "state": "VA",
+    "signedMargin": 44.94,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:VT-00",
+    "state": "VT",
+    "signedMargin": 39.32,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:WA-01",
+    "state": "WA",
+    "signedMargin": 38.71,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:WA-02",
+    "state": "WA",
+    "signedMargin": 38,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:WA-03",
+    "state": "WA",
+    "signedMargin": 10.49,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:WA-04",
+    "state": "WA",
+    "signedMargin": -7.85,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:WA-05",
+    "state": "WA",
+    "signedMargin": -3.21,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:WA-06",
+    "state": "WA",
+    "signedMargin": 34.29,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:WA-07",
+    "state": "WA",
+    "signedMargin": 78.78,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:WA-08",
+    "state": "WA",
+    "signedMargin": 20.39,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:WA-09",
+    "state": "WA",
+    "signedMargin": 46.81,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:WA-10",
+    "state": "WA",
+    "signedMargin": 29.82,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:WI-01",
+    "state": "WI",
+    "signedMargin": 1.92,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:WI-02",
+    "state": "WI",
+    "signedMargin": 50.55,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:WI-03",
+    "state": "WI",
+    "signedMargin": 5.47,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:WI-04",
+    "state": "WI",
+    "signedMargin": 61.48,
+    "incumbentParty": "D"
+   },
+   {
+    "key": "house:WI-05",
+    "state": "WI",
+    "signedMargin": -14.89,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:WI-06",
+    "state": "WI",
+    "signedMargin": -9.25,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:WI-07",
+    "state": "WI",
+    "signedMargin": -9.32,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:WI-08",
+    "state": "WI",
+    "signedMargin": -8.1,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:WV-01",
+    "state": "WV",
+    "signedMargin": -28.89,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:WV-02",
+    "state": "WV",
+    "signedMargin": -29.93,
+    "incumbentParty": "R"
+   },
+   {
+    "key": "house:WY-00",
+    "state": "WY",
+    "signedMargin": -31.34,
+    "incumbentParty": "R"
+   }
+  ],
+  "house": {
+   "demMajority": 99,
+   "demSeats": 245
+  },
+  "senate": {
+   "demMajority": 76,
+   "demSeats": 52
+  }
+ }
+}
